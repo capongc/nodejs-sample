@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-sample",
+  "version": "1.0.0",
+  "description": "just a sample project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capongc/nodejs-sample.git"
+  },
+  "keywords": [
+    "sample"
+  ],
+  "author": "Gerry Capone",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/capongc/nodejs-sample/issues"
+  },
+  "homepage": "https://github.com/capongc/nodejs-sample#readme"
+}
